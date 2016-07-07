@@ -1,0 +1,14 @@
+{
+  "name": "connected-devices",
+  "version": "0.0.1",
+  "description": "A repo used to track connected devices work",
+  "scripts": {
+    "build": "node build/build.js"
+  },
+  "license": "MPL-2.0",
+  "homepage": "https://github.com/mozilla/connected-devices#readme",
+  "dependencies": {
+    "showdown": "1.4.2",
+    "ff": "0.2.1"
+  }
+}
