@@ -8,6 +8,7 @@
     <link rel="shortcut icon" href="./img/favicon.ico">
     <link href="./css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/flat-ui.css" rel="stylesheet">
+    <link href="./css/custom.css" rel="stylesheet">
   </head>
   <body>
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -24,4 +25,4 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
-    <div class="jumbotron">
+    <div id="content" class="jumbotron">
