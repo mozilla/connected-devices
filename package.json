@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "A repo used to track connected devices work",
   "scripts": {
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "serve": "http-server -o"
   },
   "license": "MPL-2.0",
   "homepage": "https://github.com/mozilla/connected-devices#readme",
